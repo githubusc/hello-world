@@ -7,3 +7,5 @@ Just another repository
 - Item 3
 
 > This is the end of the test file.
+
+> Test pull request to another branch rather than master.
